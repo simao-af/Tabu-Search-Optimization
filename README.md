@@ -1,2 +1,4 @@
 # Tabu-Search-Optimization
 Optimization model made with python, to try to get the best solution for a ficcional problem proposed.
+
+This repository contains an algorithmic solution developed for Lusa_Med ('ficcional company') to determine the optimal allocation of scientists to projects, maximizing overall fitness and efficiency. Leveraging the power of Tabu Search, this algorithm intelligently assigns scientists to projects based on their skills, expertise, and project requirements. By implementing this algorithm, organizations can streamline their resource allocation process, ensuring that the right scientists are assigned to the right projects, ultimately enhancing productivity and project success. This repository provides the necessary code and documentation to understand, implement, and adapt the  algorithm to various project allocation scenarios.
